@@ -24,13 +24,13 @@ To achieve the project objectives, R will be used to perform exploratory data an
 We expect to find that natural disasters have a significant impact on GDP, particularly in the short term. We also expect to find that the frequency and intensity of natural disasters have increased over time, possibly due to climate change. The results of this study will contribute to the existing literature on the economic impact of natural disasters and can provide insights on how to mitigate their negative effects. The findings can also inform policymakers on the importance of disaster preparedness and response planning, and can contribute to the development of more effective policies to reduce the impact of natural disasters on the economy.
 
 # Data
-Dataset 1: [U.S Bureau of Economic Analysis (BEA)] (https://apps.bea.gov/regional/downloadzip.cfm)
+Dataset 1: [U.S Bureau of Economic Analysis](https://apps.bea.gov/regional/downloadzip.cfm)
 
 - How was it collected or generated? It was collected by the government
 - Total **rows** in data: 484 rows
 - Total **columns** in data: 34 columns
 
-Dataset 2: [US Natural Disasters (Kaggle)] (https://www.kaggle.com/datasets/headsortails/us-natural-disaster-declarations)
+Dataset 2: [US Natural Disasters](https://www.kaggle.com/datasets/headsortails/us-natural-disaster-declarations)
 - How was it collected? User on Kaggle got it from the FEMA website and made a few cleaning and formatting adjustments 
 - Total **rows** in data: 64,092 rows 
 - Total **columns** in data: 23 columns
