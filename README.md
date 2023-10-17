@@ -1,6 +1,3 @@
-# final-project-repositories-chingc28
-final-project-repositories-chingc28 created by GitHub Classroom
-
 # Story
 
 ### Introduction:
