@@ -1,5 +1,7 @@
 # Story
 
+Webpage can be accessed [here](https://chingchiu.shinyapps.io/INFO201_Final_Ching_Chiu/)
+
 ### Introduction:
 
 With continued greenhouse emissions, the effects of global warming induced climate change can be exhibited all over the world. The impacts of climate change are vast and complex, it is difficult to capture the true extent of its story when the effects can range from crop availability to sex-changing reptiles can be explored. It is well known that climate change can change weather and frequency of natural disasters. Natural disasters such as hurricanes, earthquakes, and wildfires have the potential to cause significant economic damage. The impact of natural disasters on gross domestic product (GDP) can be substantial, as they can disrupt economic activity and infrastructure, causing production and supply chain disruptions. In this project, we aim to investigate the relationship between natural disasters and GDP of each state in the U.S.A from 1997 to 2022
